@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/3Z3QU13L5/TAU_cypressAxe#readme",
   "devDependencies": {
+    "@applitools/eyes-cypress": "^3.13.4",
     "cypress": "^4.8.0",
     "cypress-axe": "^0.8.1"
   }
